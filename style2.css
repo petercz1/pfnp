@@ -1,0 +1,16 @@
+body {
+    background: lightblue;
+}
+h1 {
+    color: red;
+}
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px gray;
+}
+button,
+img {
+    display: block;
+    margin: 10px auto;
+}
